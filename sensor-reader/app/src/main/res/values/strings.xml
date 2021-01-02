@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor App</string>
+    <string name="camera">Camera widget</string>
+    <string name="gallery">Gallery widget</string>
+    <string name="slideshow">Slideshow view</string>
+    <string name="trash">Trash</string>
+</resources>
